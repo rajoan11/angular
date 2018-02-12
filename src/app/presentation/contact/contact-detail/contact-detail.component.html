@@ -1,0 +1,16 @@
+
+<div>
+  <h2>DETAILS  OF {{contact.id}}</h2>
+  <div>
+    <div for="firstname">{{contact.firstName}}</div>
+    <div for="lastname">{{contact.lastName}}</div>
+    <div for="phone">{{contact.phone}}</div>
+    <div for="mail">{{contact.mail}}</div>
+    <div for="address">{{contact.address}}</div>
+  </div>
+  <div>
+    <a [routerLink]="['/contact/edit',contact.id]" class="button">EDIT</a>
+    <a class="button">DELETE</a>
+    <a (click)="back()" class="button">BACK</a>
+  </div>
+</div>

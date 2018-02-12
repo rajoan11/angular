@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "rakoto",
+        "lastName": "vao",
+        "address": "Tana",
+        "phone": "0320003200",
+        "mail": "rakoto@gmail.com"
+    },
+    {
+        "id": 2,
+        "firstName": "rabe",
+        "lastName": "son",
+        "address": "Tana",
+        "phone": "0320003201",
+        "mail": "rabe@gmail.com"
+    },
+    {
+        "id": 3,
+        "firstName": "rasoa",
+        "lastName": "bozy",
+        "address": "Bira",
+        "phone": "0320013200",
+        "mail": "rasoa@gmail.com"
+    }
+]
